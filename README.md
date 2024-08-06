@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronmuseo" alt="aaronmuseo" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile app development and Web design**
+- 🌱 I’m currently polishing **C++**
 
-- 🤝 I’m looking for help with **Kotlin Programming**
+- 🤝 I’m looking for help with **C languages**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AaronMuseo](https://github.com/AaronMuseo)
 
