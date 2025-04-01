@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronmuseo" alt="aaronmuseo" /></a> </p>
 
-- 🌱 I’m currently polishing up on my **C++**, **Java** and, **Kotlin**!
+- 🌱 I’m currently learning **Dart**!
 
-- 🤝 I’m looking for help with **C languages**
+- 🤝 I’m looking to help and learn with others.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AaronMuseo](https://github.com/AaronMuseo)
 
